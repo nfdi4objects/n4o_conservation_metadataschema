@@ -1,9 +1,9 @@
-Metadatenstandard für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS)
+# Metadatenstandard für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS)
 Dieses Repository dokumentiert die Entwicklung eines gemeinsamen Metadatenstandards für die Beschreibung von konservierungs- und restaurierungsbezogenen Informationen an Kulturgütern. Ziel ist es, die nachhaltige Dokumentation, Austauschbarkeit und Nachnutzung solcher Daten in Forschung, Museumspraxis und Denkmalpflege zu verbessern.
 
 Die hier veröffentlichte Version wird kontinuierlich weiterentwickelt und dient als agile Referenzumgebung ergänzend zu formalen Publikationen.
 
-Hintergrund & Zielsetzung
+## Hintergrund & Zielsetzung
 Die Dokumentation konservatorischer Maßnahmen ist essenziell für die langfristige Erhaltung und wissenschaftliche Erschließung von Kulturgütern. Gleichzeitig fehlt es bislang an fachlich breit abgestimmten, maschinenlesbaren Dokumentationsstandards. Innerhalb von NFDI4Objects wurde im Rahmen der Task Area 4 "Protecting" durch die Entwicklung des in diesem Repositorium enthaltenen offenen, modularen Metadatenstandards für die Konservierung-Restaurierung diese Lücke addressiert. Der "Standard" versteht sich dabei nicht als starre Vorgabe durch NFDI4Objects, sondern als gemeinsam mit der Community erarbeitete Orientierungshilfe zur Erstellung qualitativ hochwertiger Dokumentationen.
 
 Ziel ist:
@@ -21,7 +21,7 @@ Die Entwicklung des Standards erfolgte transparent und partizipativ innerhalb de
 
 Feedback, Anmerkungen, Veränderungsvorschläge oder aktive Beteiligungswünsche sind jederzeit herzlich willkommen!
 
-Förderung
+## Förderung
 Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte.
 
 Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) – 501836407
