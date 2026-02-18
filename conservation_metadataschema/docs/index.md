@@ -10,12 +10,12 @@ Wer ist Zielgruppe?
 
 Verweis auf:
 
-Einführung (Hintergrund)
+  - Einführung (Hintergrund)
 
-Prozessübersicht
+  - Prozessübersicht
 
-Metadatenelemente
+  - Metadatenelemente
 
-SKOS-Vokabular
+  - SKOS-Metadatenthesaurus 
 
-Whitepaper
+  - Whitepaper
