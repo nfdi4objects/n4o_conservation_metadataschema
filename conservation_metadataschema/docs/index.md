@@ -1,3 +1,8 @@
+---
+title: Startseite
+nav_order: 1
+---
+
 # Hier entsteht die Startseite für die Dokumentation des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
 
 ## Inhalt:
