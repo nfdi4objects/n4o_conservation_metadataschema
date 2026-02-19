@@ -1,1 +1,0 @@
-Metadatenelement Bearbeiter*in

@@ -1,1 +1,0 @@
-Metadatenelemente Anlass der Erhaltungsmaßnahme

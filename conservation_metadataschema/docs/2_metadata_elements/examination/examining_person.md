@@ -1,1 +1,0 @@
-# Metadatenelement Zuständige Person (Untersuchung)
