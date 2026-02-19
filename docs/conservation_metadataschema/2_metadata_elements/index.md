@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Übersicht der Sektionen
+title: Metadatenelemente
 parent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
 nav_order: 2
 ---
