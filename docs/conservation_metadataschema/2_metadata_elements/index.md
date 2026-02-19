@@ -2,7 +2,7 @@
 layout: default
 title: Metadatenelemente
 parent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
-nav_order: 2
+nav_order: 3
 ---
 
 # Metadata Elements
