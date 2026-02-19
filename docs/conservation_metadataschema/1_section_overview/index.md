@@ -1,6 +1,7 @@
 ---
-title: Section Overview
-nav_order: 3
+layout: default
+title: Übersicht der Sektionen
+parent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
 ---
 # Sektions Überblick
 
