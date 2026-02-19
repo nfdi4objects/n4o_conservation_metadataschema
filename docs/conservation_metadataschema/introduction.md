@@ -1,6 +1,8 @@
 ---
-title: Introduction
-nav_order: 3
+layout: default
+title: Einführung 
+parent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
+nav_order: 4
 ---
 
 # Hier entsteht die Einleitungs/ Anleitung für den Aufbau und Verwendung der GitHub Page und des Schemas. 
