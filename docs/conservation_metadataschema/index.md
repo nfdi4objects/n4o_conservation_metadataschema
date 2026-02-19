@@ -1,3 +1,8 @@
+---
+title: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
+nav_order: 3
+---
+
 # Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS)
 Dieses Repository dokumentiert die Entwicklung eines gemeinsamen Metadatenschemas für die Beschreibung von konservierungs- und restaurierungsbezogenen Informationen an Kulturgütern. Ziel ist es, die nachhaltige Dokumentation, Austauschbarkeit und Nachnutzung solcher Daten in Forschung, Museumspraxis und Denkmalpflege zu verbessern.
 
